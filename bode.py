@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+
+#-------------------------------------------------------------------------------
+# Name:        BoDe
+# Purpose:     en/decrypt
+#
+# Author:      Wisketchy Dobrov
+#
+# Copyright:   (c)2013
+# Licence:     The BSD 3-Clause License
+#-------------------------------------------------------------------------------
+
 import random
 import codecs
 import hashlib
